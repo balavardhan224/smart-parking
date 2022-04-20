@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "136807045267",
+    "firebase_url": "https://parkplace-67ecf-default-rtdb.firebaseio.com",
+    "project_id": "parkplace-67ecf",
+    "storage_bucket": "parkplace-67ecf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136807045267:android:8a13f2453f7ec324cd1566",
+        "android_client_info": {
+          "package_name": "com.example.smart_parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136807045267-v972cg9bk6n2qm9cusv1kok9ussrjmd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_parking",
+            "certificate_hash": "003bf0b6c06ac744c7ee0b27f5c225f82f7be1e2"
+          }
+        },
+        {
+          "client_id": "136807045267-8h9qe5n9s0atb8ni2nntjhmq0ovaiog0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMoQN5a6tPZyJ92bmFYOtPaGQLa-QNa0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136807045267-8h9qe5n9s0atb8ni2nntjhmq0ovaiog0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
